@@ -1,1 +1,5 @@
+# ignorando um arquivo: file.dat
+# ignorando um grupo de arquivos: *.dat
+# ignorando uma pasta: 
+
 lib/
